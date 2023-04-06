@@ -9,3 +9,4 @@ This project demonstrates a blockchain based game deployed on Avalanche for fast
 3. Then visit the [Avaxgods game](https://avaxgods-blockchain-game.vercel.app/), register as player, create/join a battle.
 
 Happy Blockchain Gaming!
+![Avaxgods](./preview.png)
